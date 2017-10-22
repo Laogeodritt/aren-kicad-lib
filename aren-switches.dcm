@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SW_SP4T
+D Switch, 1 pole 4 throw
+K switch single-pole 4-throw SP4T ON-ON-ON-ON
+$ENDCMP
+#
+#End Doc Library

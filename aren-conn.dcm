@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AVR-ICSP-6
+D Connector, double row, 02x03
+K connector, avr, atmel, icsp, isp, spi
+$ENDCMP
+#
+#End Doc Library

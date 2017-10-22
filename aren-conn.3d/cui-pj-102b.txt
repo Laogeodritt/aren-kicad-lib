@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-11022016-096609";"";
+"REFERENCE";"PJ-102B";"";
+"TraceParts.PartTitle";"PJ-102B - 2.5 mm Center Pin, 2.5 A, Right Angle, Through Hole, Tapered Pins, Dc Power Jack Connector, RoHS Compliant";"";
+"TraceParts.InstanceId";"10-11022016-096609DDG51URM4RL9GEG5120L31MWK";"";
+"DESIGN";"2.5 mm Center Pin, 2.5 A, Right Angle, Through Hole, Tapered Pins, Dc Power Jack Connector";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"CUI";"";
+"TraceParts.PartVersion";"1.0.4";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"CUI:10-11022016-096609";"";

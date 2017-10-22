@@ -1,0 +1,66 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM2902N
+D Quad Op amp.
+K AmpliOp
+F op_amps/lm324.pdf
+$ENDCMP
+#
+$CMP LM2902N-NEG
+D Quad Op amp.
+K AmpliOp
+F op_amps/lm324.pdf
+$ENDCMP
+#
+$CMP LM2902N-POS
+D Quad Op amp.
+K AmpliOp
+F op_amps/lm324.pdf
+$ENDCMP
+#
+$CMP LM324
+D Quad Op amp.
+K AmpliOp
+F op_amps/lm324.pdf
+$ENDCMP
+#
+$CMP LM324AN
+D Quad Op amp.
+K AmpliOp
+F op_amps/lm324.pdf
+$ENDCMP
+#
+$CMP LM324N
+D Quad Op amp.
+K AmpliOp
+F op_amps/lm324.pdf
+$ENDCMP
+#
+$CMP LMV331
+D Voltage Comparator
+K comp
+$ENDCMP
+#
+$CMP MCP6004
+D Microchip quad general purpose rail to rail op-amp, 1MHz GBWP
+K quad op amp operational amplifier 
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf
+$ENDCMP
+#
+$CMP TL074
+D Wide-bandwidth (10 MHz) high-output-drive Quad Op amp. Mos
+K AmpliOp Mos
+F http://www.ti.com/lit/ds/symlink/tlc074.pdf
+$ENDCMP
+#
+$CMP TLC274
+D Precision Quad Op amp. Mos
+K AmpliOp Mos
+F http://www.ti.com.cn/cn/lit/ds/symlink/tlc274.pdf
+$ENDCMP
+#
+$CMP TS4990
+D Class AB 1.2W audio power amplifier with active-low standby mode
+$ENDCMP
+#
+#End Doc Library

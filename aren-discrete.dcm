@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP D_DUAL_SERIES_AKX
+D Diode, alternativ symbol
+K diode
+$ENDCMP
+#
+$CMP LED_TRIPLE
+D LED triple 6 pins
+K led rgb diode
+$ENDCMP
+#
+#End Doc Library

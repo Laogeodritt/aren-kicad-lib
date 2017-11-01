@@ -5,6 +5,12 @@ D Diode, alternativ symbol
 K diode
 $ENDCMP
 #
+$CMP D_TVS_unidirectional
+D transient-voltage-suppression (TVS) diode, alternativ symbol
+K diode TVS thyrector
+F https://en.wikipedia.org/wiki/Transient-voltage-suppression_diode
+$ENDCMP
+#
 $CMP LED_TRIPLE
 D LED triple 6 pins
 K led rgb diode

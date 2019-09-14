@@ -16,4 +16,10 @@ D LED triple 6 pins
 K led rgb diode
 $ENDCMP
 #
+$CMP WS2812B
+D RGB LED with integrated controller
+K RGB LED NeoPixel addressable
+F https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
+$ENDCMP
+#
 #End Doc Library
